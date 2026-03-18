@@ -21,3 +21,5 @@ https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 #EXTINF:-1 tvg-id="tv5.qa@SD" tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="News",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
+#EXTINF:-1 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" tvg-country="IR" group-title="Iran",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
