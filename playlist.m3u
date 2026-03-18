@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlMayadeen.English" tvg-name="Al Mayadeen English" tvg-logo="https://english.almayadeen.net/images/logo.png" group-title="News",Al Mayadeen English
+https://english.almayadeen.net/live
+#EXTINF:-1 tvg-id="AlManar" tvg-name="Al Manar" tvg-logo="https://www.almanar.com.lb/images/logo.png" group-title="News",Al Manar
+https://www.almanar.com.lb/live/
