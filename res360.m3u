@@ -23,3 +23,9 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulu
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" tvg-country="IR" group-title="Iran",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 tvg-name="irib-tv4" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" tvg-country="IR" group-title="Iran",irib-tv4
+https://gg.hls2.xyz/live/irib-tv4/playlist.m3u8
+#EXTINF:-1 tvg-name="tv3" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" tvg-country="IR" group-title="Iran",tv3
+https://ggg.hls2.xyz/live2/tv3/playlist.m3u8
+#EXTINF:-1 tvg-name="irib-khabar" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" tvg-country="IR" group-title="Iran",irib-khabar
+https://gg.hls2.xyz/live2/irib-khabar/playlist.m3u8
